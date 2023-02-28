@@ -23,7 +23,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/anerpeco/skilled-elearning-landing-page]
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://skilled-elearning-landing-page-anerpeco.vercel.app/]
 
 ## My process
 
